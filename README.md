@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RicksonM
-- 👀 I’m interested in programing, esports, gaming and...
+- 👀 I’m interested in programing, esports, gaming and at this moment i'm working with helthtech.
 - 🌱 I’m currently learning about java, microservices, tests, cloud and some technologies 
 - 📫 How to reach me? https://www.linkedin.com/in/rickson-m-06b594161         
 
