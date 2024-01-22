@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RicksonM
 - 👀 I’m interested in programing, esports, gaming and...
-- 🌱 I’m currently learning about java, microservices and some technologies 
+- 🌱 I’m currently learning about java, microservices, tests, cloud and some technologies 
 - 📫 How to reach me? https://www.linkedin.com/in/rickson-m-06b594161/
 
 <!---
