@@ -17,7 +17,8 @@
 </div>
 <br>
 
-[![card](https://github-readme-stats.vercel.app/api?username=ricksonm&theme=Dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![card](https://github-readme-stats.vercel.app/api?username=ricksonm&theme=Dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 
